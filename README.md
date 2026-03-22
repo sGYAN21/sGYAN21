@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgyan21" alt="sgyan21" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **ANDROID, WEB,**
 
